@@ -1,52 +1,50 @@
-{
-    "last-projects": [
-        {
-            "LinkProject": "",
-            "LinkImage": "",
-            "Title": "",
-            "Description": ""
-        },
-        {
-            "LinkProject": "https://seynecorporation.wixsite.com/perifericos/",
-            "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/wix.png",
-            "Title": "Perifericos bonitos, buenos y baratos (PPP)",
-            "Description": "Es una pagina hecha en wix, el CMS con mas publicidad en el mundo, si bien algunos programadores y mediocres le tienen odio a los CMS y mas a Wix, la verdad nose pero probablemente haga un blog de esto, en fin, cuando hay guerra debes ser abierto, por eso me preparo tambien en caso de que se deba usar un CMS para una web pequeña o simple. Hay que ser humildes - by Auronplay"
-        },
-        {
-            "LinkProject": "https://lucia-birthday.netlify.app/",
-            "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/lucia%20birthday.png",
-            "Title": "Feliz cumpleaños",
-            "Description": "Esta es un regalo para un familiar, o bue fue un regalo (ya se lo di), esto lo tomo como proyecto ya que en esto me tarde aproximadamente 2hrs, es decir que lo hice mas rapido que lo pueda haber hecho antes, si bien los componentes principales no fueron hechos por mi (tardaria más), estos fueron sacados de la comunidad de Codepen.io"
-        },
-        {
-            "LinkProject": "https://aprender-en-linea-facil.blogspot.com/",
-            "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/aprendizaje.png",
-            "Title": "Ayuda a los autodidactas",
-            "Description": "Esta web a comparacion de la que esta hecha en Wix, ademas hay que ser variados, por tanto explore mas haya y me encontre con Blogger, si bien no es muy eficiente a comparacion de otros CMS si te puede sacar de apuros. Esta web enseña las diferentes plataformas, canales de YouTube donde aprender de la informatica y las apps donde practicar el conocimiento."
-        },
-        {
-            "LinkProject": "https://mega.nz/folder/UtVS3LhJ#dNDAU8ImjNvinNLETRlvQQ",
-            "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/blender.png",
-            "Title": "Modelado 3D en Blender",
-            "Description": "Algo que me apasiona es modelar en 3D, actualmente no soy 100% profesional en esto pero voy arragando la onda."
-        },
-        {
-            "LinkProject": "https://www.figma.com/file/JPu2YJ9bjeEykkybvJvtUa/Prototipo-de-Windows",
-            "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/prototipado%20de%20windows.png",
-            "Title": "Prototipo de Windows",
-            "Description": "En el mundo de la web, existen los desarrolladores frontend, diseñadores UI - UX y los unicornios (los dos en una misma persona) y si, yo soy uno de ellos, me gusta el dieños UI - UX y la logica por lo tanto si diseño y si bien tanto para casi cualquier proyecto como las apps necesitan un prototipo, por lo que, mi mayor prototipo es Windows, es sencilla pero muy completa."
-        },
-        {
-            "LinkProject": "https://eliud-cesar.github.io/seyne-corporation/",
-            "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/seyne%20corporation.png",
-            "Title": "Seyne Corporation",
-            "Description": "El sueño de casi todo programador es emprender, como Bill Gates o Steve Jobs (y si se que el no fue programador, antes de que me funen), y lo hemos intentado pero a veces por cosas de la vida o de la persona misma, no se puede y este fue mi caso, emprender con una web, al final ya no quise pero la web no iba a ser un desperdicio, es experiencia por lo tanto aqui esta, mi segundo gran proyecto del aera web."
-        },
-        {
-            "LinkProject": "https://alvernia-ome.netlify.app/",
-            "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/pagina%20alvernia.png",
-            "Title": "Alvernia Ometepec",
-            "Description": "Es una pagina web de una congregacion, independientemente del tema de la web, esta fue mi primera pagina web en toda la vida, si su interfaz (UI) no es muy buena que digamos, imaginate el codigo, estara hecho un asco jaja, solo de imaginarmelo, es un total espagueti, pero de acuerdo a los estandares de la programacion novata, nuestro primer codigo siempre sera un espagueti total, Aqui uso las tecnologias estandares de la web ( HTML, CSS & JS )"
-        }
-    ]
-}
+[
+    {
+        "LinkProject": "",
+        "LinkImage": "",
+        "Title": "",
+        "Description": ""
+    },
+    {
+        "LinkProject": "https://seynecorporation.wixsite.com/perifericos/",
+        "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/wix.png",
+        "Title": "Perifericos bonitos, buenos y baratos (PPP)",
+        "Description": "Es una pagina hecha en wix, el CMS con mas publicidad en el mundo, si bien algunos programadores y mediocres le tienen odio a los CMS y mas a Wix, la verdad nose pero probablemente haga un blog de esto, en fin, cuando hay guerra debes ser abierto, por eso me preparo tambien en caso de que se deba usar un CMS para una web pequeña o simple. Hay que ser humildes - by Auronplay"
+    },
+    {
+        "LinkProject": "https://lucia-birthday.netlify.app/",
+        "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/lucia%20birthday.png",
+        "Title": "Feliz cumpleaños",
+        "Description": "Esta es un regalo para un familiar, o bue fue un regalo (ya se lo di), esto lo tomo como proyecto ya que en esto me tarde aproximadamente 2hrs, es decir que lo hice mas rapido que lo pueda haber hecho antes, si bien los componentes principales no fueron hechos por mi (tardaria más), estos fueron sacados de la comunidad de Codepen.io"
+    },
+    {
+        "LinkProject": "https://aprender-en-linea-facil.blogspot.com/",
+        "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/aprendizaje.png",
+        "Title": "Ayuda a los autodidactas",
+        "Description": "Esta web a comparacion de la que esta hecha en Wix, ademas hay que ser variados, por tanto explore mas haya y me encontre con Blogger, si bien no es muy eficiente a comparacion de otros CMS si te puede sacar de apuros. Esta web enseña las diferentes plataformas, canales de YouTube donde aprender de la informatica y las apps donde practicar el conocimiento."
+    },
+    {
+        "LinkProject": "https://mega.nz/folder/UtVS3LhJ#dNDAU8ImjNvinNLETRlvQQ",
+        "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/blender.png",
+        "Title": "Modelado 3D en Blender",
+        "Description": "Algo que me apasiona es modelar en 3D, actualmente no soy 100% profesional en esto pero voy arragando la onda."
+    },
+    {
+        "LinkProject": "https://www.figma.com/file/JPu2YJ9bjeEykkybvJvtUa/Prototipo-de-Windows",
+        "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/prototipado%20de%20windows.png",
+        "Title": "Prototipo de Windows",
+        "Description": "En el mundo de la web, existen los desarrolladores frontend, diseñadores UI - UX y los unicornios (los dos en una misma persona) y si, yo soy uno de ellos, me gusta el dieños UI - UX y la logica por lo tanto si diseño y si bien tanto para casi cualquier proyecto como las apps necesitan un prototipo, por lo que, mi mayor prototipo es Windows, es sencilla pero muy completa."
+    },
+    {
+        "LinkProject": "https://eliud-cesar.github.io/seyne-corporation/",
+        "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/seyne%20corporation.png",
+        "Title": "Seyne Corporation",
+        "Description": "El sueño de casi todo programador es emprender, como Bill Gates o Steve Jobs (y si se que el no fue programador, antes de que me funen), y lo hemos intentado pero a veces por cosas de la vida o de la persona misma, no se puede y este fue mi caso, emprender con una web, al final ya no quise pero la web no iba a ser un desperdicio, es experiencia por lo tanto aqui esta, mi segundo gran proyecto del aera web."
+    },
+    {
+        "LinkProject": "https://alvernia-ome.netlify.app/",
+        "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/pagina%20alvernia.png",
+        "Title": "Alvernia Ometepec",
+        "Description": "Es una pagina web de una congregacion, independientemente del tema de la web, esta fue mi primera pagina web en toda la vida, si su interfaz (UI) no es muy buena que digamos, imaginate el codigo, estara hecho un asco jaja, solo de imaginarmelo, es un total espagueti, pero de acuerdo a los estandares de la programacion novata, nuestro primer codigo siempre sera un espagueti total, Aqui uso las tecnologias estandares de la web ( HTML, CSS & JS )"
+    }
+]

@@ -1,52 +1,50 @@
-{
-    "social-media-master": [
-        {
-            "title": "YouTube",
-            "description": "Los videos con una edicion especial, grabaciones buenas con OBS,Streamlabs OBS",
-            "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/youtube%20(2).svg",
-            "linkRed": "https://www.youtube.com/channel/UCRNkLlSKnpginrMVRpAInzQ"
-        },
-        {
-            "title": "Gitlab",
-            "description": "Proyectos escalables y grandes, y plantillas",
-            "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/gitlab.svg",
-            "linkRed": "https://gitlab.com/eliud-cesar"
-        },
-        {
-            "title": "Github",
-            "description": "Proyectos quizas no grandes pero si Open Source",
-            "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/github-icon.svg",
-            "linkRed": "https://github.com/eliud-cesar"
-        },
-        {
-            "title": "Codepen",
-            "description": "Practicas de CSS, HTML & JS, muy bonitas, y tareas de los cursos de EDteam",
-            "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/codepen-icon.svg",
-            "linkRed": "https://codepen.io/eliud-cesar"
-        },
-        {
-            "title": "Linkedin",
-            "description": "La mejor red social de experiencia y comunicacion",
-            "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/linkedin-icon.svg",
-            "linkRed": "https://www.linkedin.com/in/cesar-eliud/"
-        },
-        {
-            "title": "Behance",
-            "description": "---",
-            "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/behance.svg",
-            "linkRed": "https://www.behance.net/eliud_cesar"
-        },
-        {
-            "title": "Dribbble",
-            "description": "---",
-            "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/dribbble-icon.svg",
-            "linkRed": "https://dribbble.com/eliud_cesar/about"
-        },
-        {
-            "title": "Pixabay",
-            "description": "Vectores e iconos con mucho estilo",
-            "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/pixabay.svg",
-            "linkRed": "https://pixabay.com/es/users/eliud-cesar-17437163/"
-        }
-    ]
-}
+[
+    {
+        "title": "YouTube",
+        "description": "Los videos con una edicion especial, grabaciones buenas con OBS,Streamlabs OBS",
+        "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/youtube%20(2).svg",
+        "linkRed": "https://www.youtube.com/channel/UCRNkLlSKnpginrMVRpAInzQ"
+    },
+    {
+        "title": "Gitlab",
+        "description": "Proyectos escalables y grandes, y plantillas",
+        "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/gitlab.svg",
+        "linkRed": "https://gitlab.com/eliud-cesar"
+    },
+    {
+        "title": "Github",
+        "description": "Proyectos quizas no grandes pero si Open Source",
+        "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/github-icon.svg",
+        "linkRed": "https://github.com/eliud-cesar"
+    },
+    {
+        "title": "Codepen",
+        "description": "Practicas de CSS, HTML & JS, muy bonitas, y tareas de los cursos de EDteam",
+        "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/codepen-icon.svg",
+        "linkRed": "https://codepen.io/eliud-cesar"
+    },
+    {
+        "title": "Linkedin",
+        "description": "La mejor red social de experiencia y comunicacion",
+        "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/linkedin-icon.svg",
+        "linkRed": "https://www.linkedin.com/in/cesar-eliud/"
+    },
+    {
+        "title": "Behance",
+        "description": "---",
+        "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/behance.svg",
+        "linkRed": "https://www.behance.net/eliud_cesar"
+    },
+    {
+        "title": "Dribbble",
+        "description": "---",
+        "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/dribbble-icon.svg",
+        "linkRed": "https://dribbble.com/eliud_cesar/about"
+    },
+    {
+        "title": "Pixabay",
+        "description": "Vectores e iconos con mucho estilo",
+        "iconRed": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/5e8f7cb11f4437b8da5091e28703d718443c3ce1/Redes%20Sociales/Section%20Master%20Redes/pixabay.svg",
+        "linkRed": "https://pixabay.com/es/users/eliud-cesar-17437163/"
+    }
+]
