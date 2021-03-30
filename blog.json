@@ -1,72 +1,64 @@
 [
     {
-        "Title": "",
-        "Description": "",
-        "LinkImage": "",
+        "Title": "Odio a los CMS",
+        "Description": "El odio a los CMS refleja que tan mediocre e inseguro eres, si tienes experiencia en el desarrollo y si eres conciente de que diferencia hay entre esto, me entenderas asi coimo a muchas otras personas.",
+        "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Blog/Odio%20a%20los%20CMS.png",
 
-        "uno": "",
-        "p1": "",
+        "uno": "¿Que es un CMS?",
+        "p1": "En términos sencillos un CMS significa Content Management System (Sistema de Gestión de Contenido). dejar en claro que estos en mi experiencia, no solo abarca la web, por ejemplo conozco una aplicación que te permite crear aplicaciones para móvil y escritorio, y si no miento, pueden buscarlo. ",
+        "p1.2": "Algunos CMS populares son como: WordPress, Wix, Drupal, Prestashop. Shopify y muchos más, todos tienen un propósito diferente.",
+        "p1.3": "",
+        "p1.4": "",
+        "p1.5": "",
         
-        "dos": "",
-        "p2": "",
+        "dos": "El propósito de los CMS",
+        "p2": "Si se crearon los CMS no fue para quitarle trabajos a los desarrolladores, pienso que al contrario, crearon más empleo. Solo imaginate, que ahora hay profesionales que saben manejar Wix, WordPress. solo imaginate, hubo mas trabajo, ademas para crear esos CMS se necesita código, pues quien hace eso, ¿Un médico?, no !!!, lo hacen los programadores.",
+        "p2.2": "Entonces el verdadero propósito de un CMS, es abarcar más allá de solo los que saben un lenguaje de programación, sino que a las personas de marketing, los que quieran entrar al mundo de la web sin rodearse, por si no lo sabes los que hacen marketing con las webs, se les llaman site building que su propósito es promocionar el negocio a través de la web, por ejemplo las páginas web de las escuelas, que su negocio no es la web, sino que solo es algo informativo que puede ser leído por cualquier persona en cualquier parte del mundo donde se pueda acceder a ello.",
+        "p2.3": "En pocas palabras, un CMS como WordPress o Wix, están creados para ayudar a personas que quieran crecer en este mundo de la web, sin tanta preocupaciones de código",
+        "p2.4": "",
+        "p2.5": "",
         
-        "tres": "",
-        "p3": "",
+        "tres": "Acerca de los CMS",
+        "p3": "Te preguntarás, ¿Cuál fue el primer CMS?, ¿Porque son tan populares y odiados entre otros? pues básicamente, en el año 1995 un sitio web de noticias (CNET) creó un administrador de documentos, pues esta fue la inspiración para crear el primer CMS, Xpedio",
+        "p3.2": "Luego aparecieron los populares, Drupal (2001) y WordPress (2003), Joomla (2005) y con el paso del tiempo se fueron creando mas y mas. Aunque el CMS con mayor territorio en internet es WordPress.",
+        "p3.3": "",
+        "p3.4": "",
+        "p3.5": "",
         
-        "cuatro": "",
-        "p4": "",
-        
-        "cinco": "",
-        "p5": "",
-        
+        "cuatro": "Porque usarlo",
+        "p4": "Ahora te dire las razones por las que muchos escogen a los CMS, aunque un dato, son mayormente los freelancers los que escogen esto de acuerdo al tamaño del proyecto y los emprendedores, que no tienen el suficiente dinero como para contratar a 5 programadores.",
+        "p4.2": "🔰 La facilidad de uso - El usar es más sencillo que programar, obvio no es fácil, pero tampoco imposible.",
+        "p4.3": "🔰 Comunidad - Al ser la mayoría de los CMS Open Source pues es más complicado es sea hackeado, por ejemplo el dia de hoy 29/03/2021 ha sido hackeado el repositorio de PHP, imaginate, aunque tampoco digo que los lenguajes de programación son malos. Además no se morirán teniendo una gran comunidad y trabajo por detrás.",
+        "p4.4": "🔰 Costo - Al ser un CMS, la mayoría de ellos son gratuitos, sin nada de costo, bueno si pero solo en los complementos que algunos son de pago",
+        "p4.5": "",
+
+        "cinco": "Entonces, ¿Por qué son odiados por algunos programadores?",
+        "p5": "La realidad es que los que odian los CMS son un porcentaje pequeño, simplemente los odian personas mediocres y no seguras, porque saben que pueden ser reemplazadas con un CMS, pero los demás sabemos que no, que si bien de un CMS se le puede sacar mucho provecho, y economico tambien sabemos que en ellos hay limitaciones, y es por eso que los desarrolladores webs no hemos desaparecido",
+        "p5.2": "Además ten en cuenta que no solo somos programadores, también los diseñadores, que odian a Canva, es la misma vaina, solo de distinta App.",
+        "p5.3": "Espero haberte aclarado las cosas del tema del odio a los CMS, la verdad es un tema interesante, pero no complicado de resolverse ni explicar...",
+        "p5.4": "",
+        "p5.5": "",
+
         "seis": "",
         "p6": "",
+        "p6.2": "",
+        "p6.3": "",
+        "p6.4": "",
+        "p6.5": "",
         
         "siete": "",
         "p7": "",
+        "p7.2": "",
+        "p7.3": "",
+        "p7.4": "",
+        "p7.5": "",
         
         "ocho": "",
         "p8": "",
+        "p8.2": "",
+        "p8.3": "",
+        "p8.4": "",
+        "p8.5": ""
         
-        "nueve": "",
-        "p9": "",
-        
-        "diez": "",
-        "p10": ""
-    },
-    {
-        "Title": "",
-        "Description": "",
-        "LinkImage": "",
-
-        "uno": "",
-        "p1": "",
-        
-        "dos": "",
-        "p2": "",
-        
-        "tres": "",
-        "p3": "",
-        
-        "cuatro": "",
-        "p4": "",
-        
-        "cinco": "",
-        "p5": "",
-        
-        "seis": "",
-        "p6": "",
-        
-        "siete": "",
-        "p7": "",
-        
-        "ocho": "",
-        "p8": "",
-        
-        "nueve": "",
-        "p9": "",
-        
-        "diez": "",
-        "p10": ""
-        }
+    }
 ]
