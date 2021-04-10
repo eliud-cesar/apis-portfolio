@@ -1,5 +1,11 @@
 [
     {
+        "LinkProject": "https://conalep.netlify.app/",
+        "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/conalep-backend/master/DB/open%20graph.png",
+        "Title": "Conalep Ometepec Guerrero México",
+        "Description": "Para no perder la practica y mejorarla, es por eso que decidi hacer otro proyecto en React.js, se trata de un clon mejorado de una web de un Instituto Educativo llamado Conalep. Y el 'mejorado' no lo digo por ego, para eso lo invito ver su web y comparela con la mia y ahi sacas tu conclusiones (spoiler: no tiene Certificado SSL, es decir no es seguro, ahh pero si tienen recapcha 😂😂), esta vez salio rapido por le hecho de que los estilos son de EDteam y EDgrid. Mejores practicas en el codigo y esta vez aprendiendo de mi proyecto del portafolio web, solo que con una pequeña diferencia... No esta comentado 100% o 90% en ingles, sino en español. Independientemente de eso, sigue siendo un buen proyecto. http://www.conalepometepec139.com.mx/"
+    },
+    {
         "LinkProject": "https://seynecorporation.wixsite.com/perifericos/",
         "LinkImage": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/master/Ultimos%20Proyectos/wix.png",
         "Title": "Perifericos bonitos, buenos y baratos (PPP)",
