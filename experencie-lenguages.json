@@ -7,7 +7,12 @@
     {
         "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/css-3.svg",
         "NameThecnology": "CSS",
-        "Percentage": "70"
+        "Percentage": "85"
+    },
+    {
+        "ImageExperencie": "https://cdn.svgporn.com/logos/sass.svg",
+        "NameThecnology": "SASS",
+        "Percentage": "10"
     },
     {
         "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/javascript.svg",
@@ -17,7 +22,7 @@
     {
         "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/react.svg",
         "NameThecnology": "REACT.JS",
-        "Percentage": "45"
+        "Percentage": "60"
     },
     {
         "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/git-icon.svg",
