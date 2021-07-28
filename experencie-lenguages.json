@@ -1,11 +1,11 @@
 [
     {
-        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/html-5.svg",
+        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/Portfolio-Data-Base/d48c8930bf655b79bc9d70c86a17d4e7688ff72b/images/programming-languages/html-5.svg",
         "NameThecnology": "HTML",
-        "Percentage": "100"
+        "Percentage": "90"
     },
     {
-        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/css-3.svg",
+        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/Portfolio-Data-Base/d48c8930bf655b79bc9d70c86a17d4e7688ff72b/images/programming-languages/css-3.svg",
         "NameThecnology": "CSS",
         "Percentage": "85"
     },
@@ -15,42 +15,42 @@
         "Percentage": "10"
     },
     {
-        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/javascript.svg",
+        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/Portfolio-Data-Base/d48c8930bf655b79bc9d70c86a17d4e7688ff72b/images/programming-languages/javascript.svg",
         "NameThecnology": "JAVASCRIPT",
         "Percentage": "80"
     },
     {
-        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/react.svg",
+        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/Portfolio-Data-Base/d48c8930bf655b79bc9d70c86a17d4e7688ff72b/images/programming-languages/react.svg",
         "NameThecnology": "REACT.JS",
         "Percentage": "60"
     },
     {
-        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/git-icon.svg",
+        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/Portfolio-Data-Base/d48c8930bf655b79bc9d70c86a17d4e7688ff72b/images/programming-languages/git-icon.svg",
         "NameThecnology": "GIT",
         "Percentage": "60"
     },
     {
-        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/vim.svg",
+        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/Portfolio-Data-Base/d48c8930bf655b79bc9d70c86a17d4e7688ff72b/images/programming-languages/vim.svg",
         "NameThecnology": "VIM",
         "Percentage": "10"
     },
     {
-        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/c-sharp.svg",
+        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/Portfolio-Data-Base/d48c8930bf655b79bc9d70c86a17d4e7688ff72b/images/programming-languages/c-sharp.svg",
         "NameThecnology": "C# - C SHARP",
         "Percentage": "30"
     },
     {
-        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/figma.svg",
+        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/Portfolio-Data-Base/d48c8930bf655b79bc9d70c86a17d4e7688ff72b/images/programming-languages/figma.svg",
         "NameThecnology": "FIGMA",
         "Percentage": "90"
     },
     {
-        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/linux.svg",
+        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/Portfolio-Data-Base/d48c8930bf655b79bc9d70c86a17d4e7688ff72b/images/programming-languages/linux.svg",
         "NameThecnology": "LINUX",
         "Percentage": "45"
     },
     {
-        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/data-base-portfolio-eliud-cesar/ce45d451d207f08089463f7f26cfcd886be5bfd3/Lenguajes/wix.svg",
+        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/Portfolio-Data-Base/d48c8930bf655b79bc9d70c86a17d4e7688ff72b/images/programming-languages/wix.svg",
         "NameThecnology": "WIX",
         "Percentage": "50"
     }
