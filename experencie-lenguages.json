@@ -30,6 +30,11 @@
         "Percentage": "60"
     },
     {
+        "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/Portfolio-Data-Base/85c91f6271665977533c0038edbf2bc9d86a5dd7/images/programming-languages/regex%20logo.svg",
+        "NameThecnology": "RegEx",
+        "Percentage": "20"
+    },
+    {
         "ImageExperencie": "https://raw.githubusercontent.com/eliud-cesar/Portfolio-Data-Base/d48c8930bf655b79bc9d70c86a17d4e7688ff72b/images/programming-languages/vim.svg",
         "NameThecnology": "VIM",
         "Percentage": "10"
